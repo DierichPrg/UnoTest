@@ -1,0 +1,3 @@
+﻿namespace UnoClockXamarin.Skia.Gtk
+{
+}
